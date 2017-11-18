@@ -1,2 +1,2 @@
-# redcarpet_tasks
+# Redcarpet Internship Tasks
 Red Carpet Internship Tasks
