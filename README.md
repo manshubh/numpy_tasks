@@ -1,2 +1,2 @@
-# Redcarpet Internship Tasks
-Red Carpet Internship Tasks
+# NumPy Internship Tasks
+NumPy Internship Tasks
